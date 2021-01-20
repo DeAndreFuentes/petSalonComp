@@ -1,0 +1,59 @@
+.title{
+    text-align: center;
+    color: #034b55;
+    text-shadow: 1px 1px 1px rgb(170, 170, 170);
+
+}
+
+.info label{
+    display: block;
+    margin-top: 10px;
+
+}
+
+.info .hide{
+    display: none;
+    
+}
+
+.top-row{
+    display: flex;
+ 
+
+}
+
+section{
+    padding: 5px 20px 20px 20px;
+
+
+}
+
+section h4{
+    text-align: center;
+    color: #034b55;
+    margin-bottom: 20px;
+
+}
+.info{
+    flex: 1;
+    margin-right: 20px;
+}
+
+.form{
+    flex: 1;
+}
+
+#btn-show{
+
+    margin-top: 20px;
+}
+
+
+#map{
+    
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 400px;
+
+}
